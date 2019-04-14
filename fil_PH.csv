@@ -1,0 +1,51 @@
+"Return to ","Bumalik sa ",module,Magento_Backend
+"Alert stock","Alerto sa stock",module,Magento_Catalog
+"Alert Stock","Alerto sa stock",module,Magento_Catalog
+"Alert price","Alerto sa presyo",module,Magento_Catalog
+"Alert Price","Alerto sa presyo",module,Magento_Catalog
+"Invalid value of ""%value"" provided for the %fieldName field. Possible values: %template1 or %template2.","Di-wastong halaga ng ""%halaga"" na ibinigay para sa patlang ng %fieldName. Ang mga Posibleng halaga ng: %template1 o %template2.",module,Magento_Customer
+"Your order number is: %1.","Ang numero ng iyong order ay: %1.",module,Magento_InstantPurchase
+"Something went wrong while processing your order. Please try again later.","May naganap ng mali habang pinuroseso ang iyong order. Pakiusap subukan muli mamaya.",module,Magento_InstantPurchase
+"Payment method is not defined for instance purchase.","Ang paraan ng pagbabayad ay hindi tinukoy para sa pagkakataong makabili.",module,Magento_InstantPurchase
+"Shipping address is not defined for instance purchase.","Ang address sa pagpapadala ay hindi tinukoy para sa pagkakataong makabili.",module,Magento_InstantPurchase
+"Billing address is not defined for instance purchase.","Ang Billing address ay hindi tinukoy para sa pagkakataong makabili.",module,Magento_InstantPurchase
+"Shipping method is not defined for instance purchase.","Ang paraan ng Pagpapadala ay hindi tinukoy para sa pagkakataon makabili.",module,Magento_InstantPurchase
+"Specified payment method is not available now.","Ang tinutukoy na paraan ng pagbabayad ay hindi magagamit ngayon.",module,Magento_InstantPurchase
+"Specified shipping method is not available.","Ang tinutukoy na paraan sa pagpapadala ay hindi magagamit.",module,Magento_InstantPurchase
+"Appropriate shipping method is not available.","Ang nararapat na paraan ng pagpapadala ay hindi magagamit.",module,Magento_InstantPurchase
+"Cheapest price","Ang Pinakamababang presyo",module,Magento_InstantPurchase
+"Instant purchase integration not available for token.","Ang passasama-sama sa agarang pagbili ay hindi magagamit para sa token.",module,Magento_InstantPurchase
+"Instant Purchase","Agarang Pagbili",module,Magento_InstantPurchase
+"Instant Purchase Confirmation","Kumpirmasyon sa Agarang Pagbili",module,Magento_InstantPurchase
+"Are you sure you want to place order and pay?","Sigurado ka ba na gusto mong ilagay ang order at magbayad?",module,Magento_InstantPurchase
+"Shipping Address","Address ng pagpapadala",module,Magento_InstantPurchase
+"Billing Address","Address ng Pagsisingilan",module,Magento_InstantPurchase
+"Payment Method","Paraan ng Pagbayad",module,Magento_InstantPurchase
+"Shipping Method","Paraan ng Pagpapadala",module,Magento_InstantPurchase
+"This service provides a dynamic suite of reports with rich insights about your business.
+                Your reports can be accessed securely on a personalized dashboard outside of the admin panel by clicking on the
+                ""Go to Advanced Reporting"" link. </br> For more information, see our <a href=""https://magento.com/legal/terms/cloud-terms"">
+                terms and conditions</a>.","Ang serbisyong ito ay nagbibigay ng isang dinamikang suite ng mga ulat na may masaganang pananaw tungkol sa iyong negosyo.                Ang iyong mga ulat ay maaaring ma-access ng ligtas sa isang personalize na dashboard sa labas ng admin panel sa pamamagitan ng pag-click sa                ""Pumunta sa Advanced na Pag-uulat"" link. </br> para sa mas maraming pang impormasyon, tignan ang aming <a href=""https://magento.com/legal/terms/cloud-terms"">                mga tuntunin at kundisyon</a>.",module,Magento_Analytics
+"Magento Business Intelligence provides you with a simple and clear path to
+                    becoming more data driven.</br> Learn more about <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials and BI Pro</a> tiers.","Ang Magento Business Intelligence ay nagbibigay sa iyo ng isang simple at maliwanag na landas                    nagiging mas maraming data ang nahimok.</br> Mas maraming Matutunan tungkol sa <a target=""_blank""
+                    href=""https://dashboard.rjmetrics.com/v2/magento/signup/"">Magento BI Essentials at BI Pro</a>tiers.",module,Magento_Analytics
+Other,"Iba pa",module,Magento_Analytics
+"<strong style=""color:red"">Warning!</strong> When using Store Code in URLs, in some cases system may not work properly if URLs without Store Codes are specified in the third party services (e.g. PayPal etc.).","<strong style=""color:red"">Babala!</strong> Kapag gumagamit ng Store Code sa mga URL, sa ibang mga kaso ang sistema ay maaaring hindi gumana ng maayos kung ang mga URL ng walang mga Store Code ay tinukoy sa mga serbiyo ng ikatlong partido. (e.g PayPal Etc.).",module,Magento_Backend
+"Please use only letters (a-z or A-Z) or numbers (0-9) in this field. No spaces or other characters are allowed.<br />Similar looking characters (e.g. ""i"", ""l"", ""1"") decrease chance of correct recognition by customer.","Pakiusap gumamit lang ng mga letra (a-z o A-Z) o mga numiro (0-9) sa patlang na ito. Walang mga puwang o iba pang mga karakter ang pinahihintulutan.<br />Magkatulad tignan na mga karakter (e.g ""i"",""I"", ""1"") pagbaba ng pag-asa sa kasalukuyang pagkakakilanlan sa pamamagitan ng mamimili.",module,Magento_Captcha
+"Please note that these settings apply to individual items in the cart, not to the entire cart.","Pakiusap tandaan na ang mga setting na iyon ay nalalapat sa indibidwal na mga item sa cart, hindi sa buong cart.",module,Magento_CatalogInventory
+"Cron configuration options for group:","Mga pagpipilian sa configuration ng Cron para sa grupo:",module,Magento_Cron
+"This email will be sent instead of the Default Welcome Email, if a customer was created without password. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Ipadadala ang email na ito sa halip na ang Default Welcome Email, kung ang isang kostomer ay gumawa ng walang password. <br /><br />              Ang template ng Email ay napili base sa tema ng fallback kapag ang pagpipilian sa ""Default"" ay pinili.",module,Magento_Customer
+"This email will be sent instead of the Default Welcome Email, after account confirmation. <br /><br />
+                        Email template chosen based on theme fallback when ""Default"" option is selected.","Ipadadala ang email na ito sa halip na ang Default Welcome Email, matapos na makumpirma ang account. <br /><br />                        Ang template ng Email ay napili base sa tema ng fallback kapag ang pagpipilian sa ""Default"" ay napili.",module,Magento_Customer
+"Base currency is used for all online payment transactions. The base currency scope is defined by the catalog price scope (""Catalog"" > ""Price"" > ""Catalog Price Scope"").","Ang Unang pera ay ginagamit para sa lahat ng transaksyon sa pagbabayad online. Ang unang saklaw ng pera ay tinutukoy sa catalog na saklaw ang presyo (""Catalog""> ""Presyo""> ""Catalog na Saklaw ang Presyo"").",module,Magento_Directory
+Enabled,Paganahin,module,Magento_InstantPurchase
+"Button Text","Buton ng Teksto",module,Magento_InstantPurchase
+"Public content cache lifetime in seconds. If field is empty default value 86400 will be saved.","Ang nilalaman ng Pampublikong cache lifetime sa loob ng mga segundo. kung ang field ay walang laman ang kakulangan halaga ng 86400 ay nai-save.",module,Magento_PageCache
+"<a href=""http://www.magentocommerce.com/paypal"">Start accepting payments via PayPal!</a>","<a href=""http://www.magentocommerce.com/paypal"">Simulan ang pagtanggap ng mga bayad sa pamamagitan ng PayPal!</a>",module,Magento_Paypal
+"See PayPal Feature Support details and list of supported regions
+                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">here</a>.","Tignan ang mga detalye ng Suporta sa PayPal Feature at listahan ng suportadong mga rehiyon                    <a href=""https://developer.paypal.com/docs/classic/express-checkout/in-context/"" target=""_blank"">dito</a>.",module,Magento_Paypal
+"PayPal Express Checkout lets you give customers access to financing through PayPal Credit&#174; - at no additional cost to you.
+                        You get paid up front, even though customers have more time to pay. A pre-integrated payment button lets customers pay quickly with PayPal Credit&#174;.
+                        <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Learn More</a>","Ang PayPal Express Checkout ay hinahayaan ka na bigyan ang mga kustomer ng akses sa  financing sa pamamagitang ng kredit sa PayPal&#174; - at wala kang dagdag na babayaran.        Babayaran mo sa harap, kahit na ang mga kustomer ay mas maraming oras na magbayad. Ang Isang pre-integrated na buton ng pagbabayad ay pinapayagan ang mga kustomer na makapagbayad ng mabilis sa pamamagitan ng PayPal Credit&#174;.                       <a href=""https:/www.paypal.com/webapps/mpp/promotional-financing"" target=""_blank"">Matutu ng Higit pa</a>",module,Magento_Paypal
